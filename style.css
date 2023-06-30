@@ -1,0 +1,17 @@
+.jumbotron {
+  padding-top: 6rem;
+}
+
+#projects {
+  background-color: #e2edff;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+#id {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
